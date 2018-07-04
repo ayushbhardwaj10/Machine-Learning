@@ -1,0 +1,15 @@
+                                    SALARY ANALYSIS
+It's a very simple mini project in which the data has three columns- Position,Level and salary.
+The aim is create a suitable model for it so as to determine correlation between
+the three data columns and predict the salary based upon Position and level. It's done by dividing
+the data set into training set and test set. The machine is trained using Polynomial Regression model
+and the prediction is visualized using 'matplotlib' library.
+
+Steps followed :
+1. Data preprocession
+2. Creating Polynomial Regression Model and training it.
+3. Visualizing the 2 dimentional graph.
+
+LANGUAGE USED : PYTHON 3.6
+PLATFORM USED FOR CODING : Anaconda Spyder(3.6)
+
