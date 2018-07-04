@@ -10,7 +10,7 @@ Steps followed :
 1. Data preprocession
 2. Creating Multiple Regression Model.
 3. Using Backward Elimination method to get optimal variables
-3. Visualizing the 2 dimentional graph.
+3. Predicting
 
 LANGUAGE USED : PYTHON 3.6
 PLATFORM USED FOR CODING : Anaconda Spyder(3.6)
