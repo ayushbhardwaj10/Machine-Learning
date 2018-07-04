@@ -1,0 +1,17 @@
+                                    Profit ANALYSIS
+It's roject in which the data has 5 columns- R&D spend,Administration,Marketing,State and profit.
+The aim is create a suitable model for it so as to determine correlation between
+the data columns and predict the Profit based upon other variables. It's done by dividing
+the data set into training set and test set. The machine is trained using Multiple Regression model. 
+A method called 'Backward Elimnation' is used to find the optimal indipendent variables which plays 
+crucial role in making the right predictions.
+
+Steps followed :
+1. Data preprocession
+2. Creating Multiple Regression Model.
+3. Using Backward Elimination method to get optimal variables
+3. Visualizing the 2 dimentional graph.
+
+LANGUAGE USED : PYTHON 3.6
+PLATFORM USED FOR CODING : Anaconda Spyder(3.6)
+
